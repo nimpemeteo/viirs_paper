@@ -1,0 +1,370 @@
+\begin{thebibliography}{53}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{https://doi.org/\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{https://doi.org/\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Aalstad et~al.(2020)Aalstad, Westermann, and
+  Bertino}]{aalstad_evaluating_2020}
+Aalstad, K., Westermann, S., and Bertino, L.: Evaluating satellite retrieved
+  fractional snow-covered area at a high-{Arctic} site using terrestrial
+  photography, Remote Sensing of Environment, 239, 111\,618,
+  \doi{10.1016/j.rse.2019.111618}, 2020.
+
+\bibitem[{Baba et~al.(2018)Baba, Gascoin, and Hanich}]{baba_assimilation_2018}
+Baba, M.~W., Gascoin, S., and Hanich, L.: Assimilation of {Sentinel}-2 {Data}
+  into a {Snowpack} {Model} in the {High} {Atlas} of {Morocco}, Remote Sensing,
+  10, 1982, \doi{10.3390/rs10121982}, number: 12 Publisher: Multidisciplinary
+  Digital Publishing Institute, 2018.
+
+\bibitem[{Barrett et~al.(2026)Barrett, Battisto, Bourbeau, Fisher, Kaufman,
+  Kennedy, Lopez, Lowndes, Scheick, Steiker, and
+  Varghese}]{barrett_2026_18435881}
+Barrett, A., Battisto, C., Bourbeau, J., Fisher, M., Kaufman, D., Kennedy, J.,
+  Lopez, L., Lowndes, J., Scheick, J., Steiker, A., and Varghese, S.:
+  earthaccess, \doi{10.5281/zenodo.18435881}, 2026.
+
+\bibitem[{Barrou~Dumont et~al.(2021)Barrou~Dumont, Gascoin, Hagolle, Ablain,
+  Jugier, Salgues, Marti, Dupuis, Dumont, and Morin}]{barrou_dumont_brief_2021}
+Barrou~Dumont, Z., Gascoin, S., Hagolle, O., Ablain, M., Jugier, R., Salgues,
+  G., Marti, F., Dupuis, A., Dumont, M., and Morin, S.: Brief communication:
+  {Evaluation} of the snow cover detection in the {Copernicus} {High}
+  {Resolution} {Snow} \& {Ice} {Monitoring} {Service}, The Cryosphere, 15,
+  4975--4980, \doi{10.5194/tc-15-4975-2021}, 2021.
+
+\bibitem[{CLMS(2018)}]{corine2018}
+CLMS: European Union's CLMS information, CORINE Land Cover 2018 (vector/raster
+  100 m), Europe, 6-yearly, accessed 10/07/2025,
+  \doi{/10.2909/960998c1-1870-4e82-8051-6485205ebbac}, 2018.
+
+\bibitem[{Cluzet et~al.(2021)Cluzet, Lafaysse, Cosme, Albergel, Meunier, and
+  Dumont}]{cluzet_croco_v10_2021}
+Cluzet, B., Lafaysse, M., Cosme, E., Albergel, C., Meunier, L.-F., and Dumont,
+  M.: {CrocO}\_v1.0: a particle filter to assimilate snowpack observations in a
+  spatialised framework, Geoscientific Model Development, 14, 1595--1614,
+  \doi{10.5194/gmd-14-1595-2021}, publisher: Copernicus GmbH, 2021.
+
+\bibitem[{Copernicus(2019)}]{copernicus_dem}
+Copernicus: Copernicus DEM - Global and European Digital Elevation Model,
+  accessed 26/02/2026, \doi{10.5270/ESA-c5d3d65}, 2019.
+
+\bibitem[{Dietz and Roessler(2025)}]{dietz_brief_2025}
+Dietz, A.~J. and Roessler, S.: Brief {Communication}: {Daily}, gap-free snow
+  cover information based on a combination of {NPP} {VIIRS} and {MODIS} data,
+  EGUsphere, pp. 1--6, \doi{10.5194/egusphere-2025-382}, publisher: Copernicus
+  GmbH, 2025.
+
+\bibitem[{Dozier et~al.(2008)Dozier, Painter, Rittger, and
+  Frew}]{dozier2008TimeSpaceContinuity}
+Dozier, J., Painter, T.~H., Rittger, K., and Frew, J.~E.: Time--Space
+  Continuity of Daily Maps of Fractional Snow Cover and Albedo from {{MODIS}},
+  Advances in Water Resources, 31, 1515--1526,
+  \doi{10.1016/j.advwatres.2008.08.011}, 2008.
+
+\bibitem[{{European Union's Copernicus Land Monitoring Service
+  information}()}]{europeanunionscopernicuslandmonitoringserviceinformationSnowCoverExtent}
+{European Union's Copernicus Land Monitoring Service information}: Snow {{Cover
+  Extent}} 2018-Present (Raster 1 Km), Northern Hemisphere, Daily - Version 1,
+  \doi{10.2909/7f2eb891-cadb-4aa0-8b43-2c18e2a442e9}.
+
+\bibitem[{García-García et~al.(2026)García-García, Stradiotti, {Di Paolo},
+  Filippucci, Fischer, Orság, Brocca, Peng, Dorigo, Gruber, Droppers, Wanders,
+  Haag, Weerts, Modiri, Rakovec, Francés, Dall’Amico, Anderson, Hain, and
+  Samaniego}]{GARCIAGARCIA2026115131}
+García-García, A., Stradiotti, P., {Di Paolo}, F., Filippucci, P., Fischer,
+  M., Orság, M., Brocca, L., Peng, J., Dorigo, W., Gruber, A., Droppers, B.,
+  Wanders, N., Haag, A., Weerts, A., Modiri, E., Rakovec, O., Francés, F.,
+  Dall’Amico, M., Anderson, M., Hain, C., and Samaniego, L.: Intercomparison
+  of Earth Observation products for hyper-resolution hydrological modelling
+  over Europe, Remote Sensing of Environment, 333, 115\,131,
+  \doi{10.1016/j.rse.2025.115131}, 2026.
+
+\bibitem[{Gascoin et~al.(2019)Gascoin, Grizonnet, Bouchet, Salgues, and
+  Hagolle}]{gascoin_theia_2019}
+Gascoin, S., Grizonnet, M., Bouchet, M., Salgues, G., and Hagolle, O.: Theia
+  {Snow} collection: high-resolution operational snow cover maps from
+  {Sentinel}-2 and {Landsat}-8 data, Earth System Science Data, 11, 493--514,
+  \doi{10.5194/essd-11-493-2019}, 2019.
+
+\bibitem[{Gascoin et~al.(2020)Gascoin, Barrou~Dumont, Deschamps-Berger, Marti,
+  Salgues, López-Moreno, Revuelto, Michon, Schattan, and
+  Hagolle}]{gascoin_estimating_2020}
+Gascoin, S., Barrou~Dumont, Z., Deschamps-Berger, C., Marti, F., Salgues, G.,
+  López-Moreno, J.~I., Revuelto, J., Michon, T., Schattan, P., and Hagolle,
+  O.: Estimating {Fractional} {Snow} {Cover} in {Open} {Terrain} from
+  {Sentinel}-2 {Using} the {Normalized} {Difference} {Snow} {Index}, Remote
+  Sensing, 12, 2904, \doi{10.3390/rs12182904}, number: 18 Publisher:
+  Multidisciplinary Digital Publishing Institute, 2020.
+
+\bibitem[{Gascoin et~al.(2024)Gascoin, Luojus, Nagler, Lievens, Masiokas,
+  Jonas, Zheng, and De~Rosnay}]{gascoin_remote_2024}
+Gascoin, S., Luojus, K., Nagler, T., Lievens, H., Masiokas, M., Jonas, T.,
+  Zheng, Z., and De~Rosnay, P.: Remote sensing of mountain snow from space:
+  status and recommendations, Frontiers in Earth Science, 12,
+  \doi{10.3389/feart.2024.1381323}, publisher: Frontiers, 2024.
+
+\bibitem[{{GDAL/OGR contributors}(2025)}]{gdal}
+{GDAL/OGR contributors}: {GDAL/OGR} Geospatial Data Abstraction software
+  Library, Open Source Geospatial Foundation, \doi{10.5281/zenodo.5884351},
+  2025.
+
+\bibitem[{Girotto et~al.(2020)Girotto, Musselman, and
+  Essery}]{girotto_data_2020}
+Girotto, M., Musselman, K.~N., and Essery, R. L.~H.: Data {Assimilation}
+  {Improves} {Estimates} of {Climate}-{Sensitive} {Seasonal} {Snow}, Current
+  Climate Change Reports, 6, 81--94, \doi{10.1007/s40641-020-00159-7}, 2020.
+
+\bibitem[{Hall et~al.(2002)Hall, Riggs, Salomonson, DiGirolamo, and
+  Bayr}]{hall_modis_2002}
+Hall, D.~K., Riggs, G.~A., Salomonson, V.~V., DiGirolamo, N.~E., and Bayr,
+  K.~J.: {MODIS} snow-cover products, Remote Sensing of Environment, 83,
+  181--194, \doi{10.1016/S0034-4257(02)00095-0}, 2002.
+
+\bibitem[{Hall et~al.(2019)Hall, Riggs, DiGirolamo, and
+  Román}]{hall_evaluation_2019}
+Hall, D.~K., Riggs, G.~A., DiGirolamo, N.~E., and Román, M.~O.: Evaluation of
+  {MODIS} and {VIIRS} cloud-gap-filled snow-cover products for production of an
+  {Earth} science data record, Hydrology and Earth System Sciences, 23,
+  5227--5241, \doi{10.5194/hess-23-5227-2019}, publisher: Copernicus GmbH,
+  2019.
+
+\bibitem[{Hall et~al.(2024)Hall, Riggs, and DiGirolamo}]{hall_comparison_2024}
+Hall, D.~K., Riggs, G.~A., and DiGirolamo, N.~E.: Comparison of the {NASA}
+  {Standard} {MODerate}-{Resolution} {Imaging} {Spectroradiometer} and
+  {Visible} {Infrared} {Imaging} {Radiometer} {Suite} {Snow}-{Cover} {Products}
+  for {Creation} of a {Climate} {Data} {Record}: {A} {Case} {Study} in the
+  {Great} {Basin} of the {Western} {United} {States}, Remote Sensing, 16, 3029,
+  \doi{10.3390/rs16163029}, number: 16 Publisher: Multidisciplinary Digital
+  Publishing Institute, 2024.
+
+\bibitem[{{HR-S\&I consortium}(2020)}]{hr-si_consortium_algorithm_2020}
+{HR-S\&I consortium}: Algorithm theoretical basis document for snow products,
+  \urlprefix\url{https://land.copernicus.eu/user-corner/technical-library/hrsi-snow-atbd},
+  2020.
+
+\bibitem[{Hugonnet et~al.(2022)Hugonnet, Brun, Berthier, Dehecq, Mannerfelt,
+  Eckert, and Farinotti}]{hugonnet2022UncertaintyAnalysisDigital}
+Hugonnet, R., Brun, F., Berthier, E., Dehecq, A., Mannerfelt, E.~S., Eckert,
+  N., and Farinotti, D.: Uncertainty {{Analysis}} of {{Digital Elevation
+  Models}} by {{Spatial Inference From Stable Terrain}}, IEEE Journal of
+  Selected Topics in Applied Earth Observations and Remote Sensing, 15,
+  6456--6472, \doi{10.1109/JSTARS.2022.3188922}, 2022.
+
+\bibitem[{IGN(2025)}]{lidarhd}
+IGN: LidarHD, accessed 10/07/2025,
+  \doi{10.2909/960998c1-1870-4e82-8051-6485205ebbac}, 2025.
+
+\bibitem[{Imperatore(2026{\natexlab{a}})}]{imperatore_2026_18157029}
+Imperatore, N.: Data of the article "Assessing VIIRS constellation seasonal
+  snow cover on French mountains with Sentinel-2",
+  \doi{10.5281/zenodo.18157029}, 2026{\natexlab{a}}.
+
+\bibitem[{Imperatore(2026{\natexlab{b}})}]{imperatore_2026_18773106}
+Imperatore, N.: Code of the article "Assessing VIIRS constellation seasonal
+  snow cover on French mountains with Sentinel-2",
+  \doi{10.5281/zenodo.18773106}, 2026{\natexlab{b}}.
+
+\bibitem[{Jacques-Hamilton et~al.(2025)Jacques-Hamilton, Valcu, Kwon,
+  Versluijs, and Kempenaers}]{jacques-hamilton_measurement_2025}
+Jacques-Hamilton, R., Valcu, M., Kwon, E., Versluijs, T. S.~L., and Kempenaers,
+  B.: Measurement error in remotely sensed fractional snow cover datasets:
+  implications for ecological research, Environmental Research: Ecology,
+  \doi{10.1088/2752-664X/ada8b3}, 2025.
+
+\bibitem[{Ji et~al.(2022)Ji, Hao, Shao, Yang, Wang, Li, and
+  Huang}]{ji2022NewIndexSnow}
+Ji, W., Hao, X., Shao, D., Yang, Q., Wang, J., Li, H., and Huang, G.: A {{New
+  Index}} for {{Snow}}/{{Ice}}/{{Ice-Snow Discrimination Based}} on {{BRDF
+  Characteristic Observation Data}}, Journal of Geophysical Research:
+  Atmospheres, 127, e2021JD035\,742, \doi{10.1029/2021JD035742}, 2022.
+
+\bibitem[{Keuris et~al.(2023)Keuris, Hetzenecker, Nagler, Mölg, and
+  Schwaizer}]{keuris_adaptive_2023}
+Keuris, L., Hetzenecker, M., Nagler, T., Mölg, N., and Schwaizer, G.: An
+  {Adaptive} {Method} for the {Estimation} of {Snow}-{Covered} {Fraction} with
+  {Error} {Propagation} for {Applications} from {Local} to {Global} {Scales},
+  Remote Sensing, 15, 1231, \doi{10.3390/rs15051231}, number: 5 Publisher:
+  Multidisciplinary Digital Publishing Institute, 2023.
+
+\bibitem[{Key et~al.(2013)Key, Mahoney, Liu, Romanov, Tschudi, Appel, Maslanik,
+  Baldwin, Wang, and Meade}]{key_snow_2013}
+Key, J.~R., Mahoney, R., Liu, Y., Romanov, P., Tschudi, M., Appel, I.,
+  Maslanik, J., Baldwin, D., Wang, X., and Meade, P.: Snow and ice products
+  from {Suomi} {NPP} {VIIRS}, Journal of Geophysical Research: Atmospheres,
+  118, 12,816--12,830, \doi{10.1002/2013JD020459}, 2013.
+
+\bibitem[{Lafaysse(2023)}]{lafaysse_modelisation_2023}
+Lafaysse, M.: Modélisation numérique de la neige : la fin du déterminisme ?,
+  thesis, Université Toulouse III - Paul Sabatier,
+  \urlprefix\url{https://hal.science/tel-04130109}, 2023.
+
+\bibitem[{Lavanat(2014)}]{lavanat_maia_2018}
+Lavanat, L.: {MAIA} {VERSION} 4 {FOR} {NPP}-{VIIRS} {AND}
+  {NOAA}/{METOP}-{AVHRR} {CLOUD} {MASK} {AND} {CLASSIFICATION}, accessed
+  26/02/2026,
+  \urlprefix\url{https://nwp-saf.eumetsat.int/oldsite/deliverables/aapp/NWPSAF-MF-UD-009_MAIAv4.pdf},
+  2014.
+
+\bibitem[{Liu et~al.(2022)Liu, Che, Huang, Dai, Wang, and
+  Deng}]{liu2022EffectCloudMask}
+Liu, A., Che, T., Huang, X., Dai, L., Wang, J., and Deng, J.: Effect of {{Cloud
+  Mask}} on the {{Consistency}} of {{Snow Cover Products}} from {{MODIS}} and
+  {{VIIRS}}, Remote Sensing, 14, 6134, \doi{10.3390/rs14236134}, 2022.
+
+\bibitem[{Liu and Che(2024)}]{liu_consistency_2024}
+Liu, A.~w. and Che, T.: Consistency and {Accuracy} {Assessment} of {Snow}
+  {Cover} {Products} from {Terra}, {Aqua}, {SNPP} and {JPSS}-1 {Satellites}, p.
+  9925, \doi{10.5194/egusphere-egu24-9925}, 2024.
+
+\bibitem[{Masson et~al.(2018)Masson, Dumont, Mura, Sirguey, Gascoin, Dedieu,
+  and Chanussot}]{masson_assessment_2018}
+Masson, T., Dumont, M., Mura, M.~D., Sirguey, P., Gascoin, S., Dedieu, J.-P.,
+  and Chanussot, J.: An {Assessment} of {Existing} {Methodologies} to
+  {Retrieve} {Snow} {Cover} {Fraction} from {MODIS} {Data}, Remote Sensing, 10,
+  619, \doi{10.3390/rs10040619}, number: 4 Publisher: Multidisciplinary Digital
+  Publishing Institute, 2018.
+
+\bibitem[{Muhuri et~al.(2021)Muhuri, Gascoin, Menzel, Kostadinov, Harpold,
+  Sanmiguel-Vallelado, and López-Moreno}]{muhuri_performance_2021}
+Muhuri, A., Gascoin, S., Menzel, L., Kostadinov, T.~S., Harpold, A.~A.,
+  Sanmiguel-Vallelado, A., and López-Moreno, J.~I.: Performance {Assessment}
+  of {Optical} {Satellite}-{Based} {Operational} {Snow} {Cover} {Monitoring}
+  {Algorithms} in {Forested} {Landscapes}, IEEE Journal of Selected Topics in
+  Applied Earth Observations and Remote Sensing, 14, 7159--7178,
+  \doi{10.1109/JSTARS.2021.3089655}, 2021.
+
+\bibitem[{Painter et~al.(2009)Painter, Rittger, McKenzie, Slaughter, Davis, and
+  Dozier}]{painter_retrieval_2009}
+Painter, T.~H., Rittger, K., McKenzie, C., Slaughter, P., Davis, R.~E., and
+  Dozier, J.: Retrieval of subpixel snow covered area, grain size, and albedo
+  from {MODIS}, Remote Sensing of Environment, 113, 868--879,
+  \doi{10.1016/j.rse.2009.01.001}, 2009.
+
+\bibitem[{Painter et~al.(2016)Painter, Berisford, Boardman, Bormann, Deems,
+  Gehrke, Hedrick, Joyce, Laidlaw, Marks, Mattmann, McGurk, Ramirez,
+  Richardson, Skiles, Seidel, and
+  Winstral}]{painter2016AirborneSnowObservatory}
+Painter, T.~H., Berisford, D.~F., Boardman, J.~W., Bormann, K.~J., Deems,
+  J.~S., Gehrke, F., Hedrick, A., Joyce, M., Laidlaw, R., Marks, D., Mattmann,
+  C., McGurk, B., Ramirez, P., Richardson, M., Skiles, S.~M., Seidel, F.~C.,
+  and Winstral, A.: The {{Airborne Snow Observatory}}: {{Fusion}} of Scanning
+  Lidar, Imaging Spectrometer, and Physically-Based Modeling for Mapping Snow
+  Water Equivalent and Snow Albedo, 184, 139--152,
+  \doi{10.1016/j.rse.2016.06.018}, 2016.
+
+\bibitem[{Ramsay(1998)}]{ramsay_interactive_1998}
+Ramsay, B.~H.: The interactive multisensor snow and ice mapping system,
+  Hydrological Processes, 12, 1537--1546,
+  \urlprefix\url{https://icdc.zmaw.de/fileadmin/user_upload/icdc_Dokumente/ramsay_TheInteractiveMultisensorSnowandIceMappingSystem_HYDROLPROC_12_1998.pdf},
+  1998.
+
+\bibitem[{Raspaud et~al.(2025)Raspaud, Hoese, Lahtinen, Holl, Proud,
+  Finkensieper, Meraner, Dybbroe, Strandgren, yukaribbba, Lahtinen, Feltz,
+  BENR0, Joro, Zhang, de~Buyl, Youva, Ghiggi, Roberts, Ørum Rasmussen,
+  ClementLaplace, Samain, mherbertson, Zhu, Méndez, Isotr0py, seenno,
+  rdaruwala, and bkremmli}]{martin_raspaud_2025_17552484}
+Raspaud, M., Hoese, D., Lahtinen, P., Holl, G., Proud, S., Finkensieper, S.,
+  Meraner, A., Dybbroe, A., Strandgren, J., yukaribbba, Lahtinen, P., Feltz,
+  J., BENR0, Joro, S., Zhang, X., de~Buyl, P., Youva, Ghiggi, G., Roberts, W.,
+  Ørum Rasmussen, L., ClementLaplace, Samain, O., mherbertson, Zhu, Y.,
+  Méndez, J. H.~B., Isotr0py, seenno, rdaruwala, and bkremmli: pytroll/satpy:
+  Version 0.59.0 (2025/11/07), \doi{10.5281/zenodo.17552484}, 2025.
+
+\bibitem[{Riggs and Hall(2020)}]{riggs_continuity_2020}
+Riggs, G. and Hall, D.: Continuity of {MODIS} and {VIIRS} {Snow} {Cover}
+  {Extent} {Data} {Products} for {Development} of an {Earth} {Science} {Data}
+  {Record}, Remote Sensing, 12, 3781, \doi{10.3390/rs12223781}, number: 22
+  Publisher: Multidisciplinary Digital Publishing Institute, 2020.
+
+\bibitem[{Riggs and Hall(2023)}]{riggs2023viirs}
+Riggs, G. and Hall, D.: VIIRS/JPSS1 Snow Cover Daily L3 Global 375m SIN Grid,
+  Version 2, accessed 26/02/2026, NASA National Snow and Ice Data Center
+  Distributed Active Archive Center (DAAC) data set,
+  \doi{10.5067/UAJGR7WVWDDI}, 2023.
+
+\bibitem[{Rittger et~al.(2020)Rittger, Raleigh, Dozier, Hill, Lutz, and
+  Painter}]{rittger2020CanopyAdjustmentImproved}
+Rittger, K., Raleigh, M.~S., Dozier, J., Hill, A.~F., Lutz, J.~A., and Painter,
+  T.~H.: Canopy {{Adjustment}} and {{Improved Cloud Detection}} for {{Remotely
+  Sensed Snow Cover Mapping}}, Water Resources Research, 56,
+  \doi{10.1029/2019WR024914}, 2020.
+
+\bibitem[{Rittger et~al.(2021)Rittger, Bormann, Bair, Dozier, and
+  Painter}]{rittger_evaluation_2021}
+Rittger, K., Bormann, K.~J., Bair, E.~H., Dozier, J., and Painter, T.~H.:
+  Evaluation of {VIIRS} and {MODIS} {Snow} {Cover} {Fraction} in
+  {High}-{Mountain} {Asia} {Using} {Landsat} 8 {OLI}, Frontiers in Remote
+  Sensing, 2, \doi{10.3389/frsen.2021.647154}, 2021.
+
+\bibitem[{Salomonson and Appel(2006)}]{salomonson_development_2006}
+Salomonson, V. and Appel, I.: Development of the {Aqua} {MODIS} {NDSI}
+  fractional snow cover algorithm and validation results, IEEE Transactions on
+  Geoscience and Remote Sensing, 44, 1747--1756,
+  \doi{10.1109/TGRS.2006.876029}, 2006.
+
+\bibitem[{Salomonson and Appel(2004)}]{salomonson_estimating_2004}
+Salomonson, V.~V. and Appel, I.: Estimating fractional snow cover from {MODIS}
+  using the normalized difference snow index, Remote Sensing of Environment,
+  89, 351--360, \doi{10.1016/j.rse.2003.10.016}, 2004.
+
+\bibitem[{Saloranta(2016)}]{saloranta2016OperationalSnowMapping}
+Saloranta, T.~M.: Operational Snow Mapping with Simplified Data Assimilation
+  Using the {{seNorge}} Snow Model, Journal of Hydrology, 538, 314--325,
+  \doi{10.1016/j.jhydrol.2016.03.061}, 2016.
+
+\bibitem[{Schueler et~al.(2013)Schueler, Lee, and Miller}]{schueler_viirs_2013}
+Schueler, C.~F., Lee, T.~F., and Miller, S.~D.: {VIIRS} constant
+  spatial-resolution advantages, International Journal of Remote Sensing, 34,
+  5761--5777, \doi{10.1080/01431161.2013.796102}, 2013.
+
+\bibitem[{Schwaizer et~al.(2020)Schwaizer, Mets{\"a}m{\"a}ki, Keuris, and
+  Luojus}]{schwaizer2020SnowCoverExtentb}
+Schwaizer, G., Mets{\"a}m{\"a}ki, S., Keuris, L., and Luojus, K.: Snow {{Cover
+  Extent Collection}} 1 Km {{Quality Assessment Report}} v1.0, acessed
+  26/02/2026, \doi{10.2909/7f2eb891-cadb-4aa0-8b43-2c18e2a442e9}, 2020.
+
+\bibitem[{Stillinger et~al.(2023)Stillinger, Rittger, Raleigh, Michell, Davis,
+  and Bair}]{stillinger_landsat_2023}
+Stillinger, T., Rittger, K., Raleigh, M.~S., Michell, A., Davis, R.~E., and
+  Bair, E.~H.: Landsat, {MODIS}, and {VIIRS} snow cover mapping algorithm
+  performance as validated by airborne lidar datasets, The Cryosphere, 17,
+  567--590, \doi{10.5194/tc-17-567-2023}, publisher: Copernicus GmbH, 2023.
+
+\bibitem[{Sun et~al.(2024)Sun, Fang, Margulis, Mortimer, Mudryk, and
+  Derksen}]{sun_evaluation_2024}
+Sun, H., Fang, Y., Margulis, S., Mortimer, C., Mudryk, L., and Derksen, C.:
+  Evaluation of the {Snow} {CCI} {Snow} {Covered} {Area} {Product} within a
+  {Mountain} {Snow} {Water} {Equivalent} {Reanalysis}, EGUsphere, pp. 1--33,
+  \doi{10.5194/egusphere-2024-3213}, 2024.
+
+\bibitem[{Thapa et~al.(2019)Thapa, Chhetri, and
+  Klein}]{thapa_cross-comparison_2019}
+Thapa, S., Chhetri, P.~K., and Klein, A.~G.: Cross-{Comparison} between {MODIS}
+  and {VIIRS} {Snow} {Cover} {Products} for the 2016 {Hydrological} {Year},
+  Climate, 7, 57, \doi{10.3390/cli7040057}, number: 4 Publisher:
+  Multidisciplinary Digital Publishing Institute, 2019.
+
+\bibitem[{Vidot et~al.(2017)Vidot, Bellec, Dumont, and
+  Brunel}]{vidot_daytime_2017}
+Vidot, J., Bellec, B., Dumont, M., and Brunel, P.: A daytime {VIIRS} {RGB}
+  pseudo composite for snow detection, Remote Sensing of Environment, 196,
+  134--139, \doi{10.1016/j.rse.2017.04.028}, 2017.
+
+\bibitem[{Zhang et~al.(2020)Zhang, Zhang, Che, and
+  Wang}]{zhang_comparative_2020}
+Zhang, H., Zhang, F., Che, T., and Wang, S.: Comparative evaluation of {VIIRS}
+  daily snow cover product with {MODIS} for snow detection in {China} based on
+  ground observations, Science of The Total Environment, 724, 138\,156,
+  \doi{10.1016/j.scitotenv.2020.138156}, 2020.
+
+\bibitem[{Zhou et~al.(2019)Zhou, Divakarla, Liu, Layns, and
+  Goldberg}]{zhou2019OverviewSciencePerformances}
+Zhou, L., Divakarla, M., Liu, X., Layns, A., and Goldberg, M.: An {{Overview}}
+  of the {{Science Performances}} and {{Calibration}}/{{Validation}} of {{Joint
+  Polar Satellite System Operational Products}}, 11, 698,
+  \doi{10.3390/rs11060698}, 2019.
+
+\end{thebibliography}
