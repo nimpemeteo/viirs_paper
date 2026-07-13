@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{56}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{}
@@ -117,6 +117,10 @@ Girotto, M., Musselman, K.~N., and Essery, R. L.~H.: Data {Assimilation}
   {Improves} {Estimates} of {Climate}-{Sensitive} {Seasonal} {Snow}, Current
   Climate Change Reports, 6, 81--94, \doi{10.1007/s40641-020-00159-7}, 2020.
 
+\bibitem[{Hall and Riggs(2021)}]{riggs2021MODISAquaSnow}
+Hall, D. and Riggs, G.: {{MODIS}}/Aqua Snow Cover Daily {{L3}} Global 500m
+  {{SIN}} Grid, Version 61, \doi{10.5067/MODIS/MYD10A1.061}, 2021.
+
 \bibitem[{Hall et~al.(2002)Hall, Riggs, Salomonson, DiGirolamo, and
   Bayr}]{hall_modis_2002}
 Hall, D.~K., Riggs, G.~A., Salomonson, V.~V., DiGirolamo, N.~E., and Bayr,
@@ -213,11 +217,6 @@ Lavanat, L.: {MAIA} {VERSION} 4 {FOR} {NPP}-{VIIRS} {AND}
 Liu, A., Che, T., Huang, X., Dai, L., Wang, J., and Deng, J.: Effect of {{Cloud
   Mask}} on the {{Consistency}} of {{Snow Cover Products}} from {{MODIS}} and
   {{VIIRS}}, Remote Sensing, 14, 6134, \doi{10.3390/rs14236134}, 2022.
-
-\bibitem[{Liu and Che(2024)}]{liu_consistency_2024}
-Liu, A.~w. and Che, T.: Consistency and {Accuracy} {Assessment} of {Snow}
-  {Cover} {Products} from {Terra}, {Aqua}, {SNPP} and {JPSS}-1 {Satellites}, p.
-  9925, \doi{10.5194/egusphere-egu24-9925}, 2024.
 
 \bibitem[{Masson et~al.(2018)Masson, Dumont, Mura, Sirguey, Gascoin, Dedieu,
   and Chanussot}]{masson_assessment_2018}
@@ -329,6 +328,12 @@ Saloranta, T.~M.: Operational Snow Mapping with Simplified Data Assimilation
 Schueler, C.~F., Lee, T.~F., and Miller, S.~D.: {VIIRS} constant
   spatial-resolution advantages, International Journal of Remote Sensing, 34,
   5761--5777, \doi{10.1080/01431161.2013.796102}, 2013.
+
+\bibitem[{Schwaizer and Metsämäki(2020)}]{schwaizer2020SnowCoverExtent}
+Schwaizer, G. and Metsämäki, S.: Snow {{Cover Extent Collection}} 1 Km
+  {{ATBD}} v1.0,
+  \urlprefix\url{https://doi.org/10.2909/7f2eb891-cadb-4aa0-8b43-2c18e2a442e9},
+  2020.
 
 \bibitem[{Schwaizer et~al.(2020)Schwaizer, Mets{\"a}m{\"a}ki, Keuris, and
   Luojus}]{schwaizer2020SnowCoverExtentb}

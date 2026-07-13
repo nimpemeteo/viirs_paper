@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.1.30)  9 JUL 2026 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.1.30)  13 JUL 2026 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,7 +771,11 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 85
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `tab: tab05' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
@@ -791,8 +795,7 @@ LaTeX Font Info:    ... okay on input line 85.
 LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 85.
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 85
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 85.
@@ -879,202 +882,227 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.54997pt on input line 139.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-50.
+49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (1.065pt too wide) in paragraph at lines 171--193
+Overfull \hbox (1.065pt too wide) in paragraph at lines 170--192
  []$[]$ 
  []
 
 
-Overfull \hbox (5.2535pt too wide) in paragraph at lines 202--202
+Overfull \hbox (5.2535pt too wide) in paragraph at lines 201--201
 []|\T1/ptm/m/n/9 Provider| 
  []
 
 
-Overfull \hbox (10.20631pt too wide) in paragraph at lines 200--220
+Overfull \hbox (10.20631pt too wide) in paragraph at lines 199--219
  []$[]$ 
  []
 
-[3] [4]
+[3]
+Overfull \hbox (0.545pt too wide) in paragraph at lines 247--247
+[]|\T1/ptm/m/n/9 MODIS| 
+ []
+
+
+Overfull \hbox (0.545pt too wide) in paragraph at lines 248--248
+[]|\T1/ptm/m/n/9 MODIS| 
+ []
+
+[4]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./illustrations/fig01.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<./illustrations/fig01.pdf, id=169, 4491.82144pt x 848.20888pt>
+<./illustrations/fig01.pdf, id=181, 4491.82144pt x 848.20888pt>
 File: ./illustrations/fig01.pdf Graphic file (type pdf)
 <use ./illustrations/fig01.pdf>
-Package pdftex.def Info: ./illustrations/fig01.pdf  used on input line 238.
+Package pdftex.def Info: ./illustrations/fig01.pdf  used on input line 260.
 (pdftex.def)             Requested size: 494.1019pt x 93.30325pt.
-[5 <./illustrations/fig01.pdf>]
-<./illustrations/fig02.pdf, id=252, 843.15pt x 760.8425pt>
+[5]
+<./illustrations/fig02.pdf, id=203, 843.15pt x 760.8425pt>
 File: ./illustrations/fig02.pdf Graphic file (type pdf)
 <use ./illustrations/fig02.pdf>
-Package pdftex.def Info: ./illustrations/fig02.pdf  used on input line 251.
+Package pdftex.def Info: ./illustrations/fig02.pdf  used on input line 273.
 (pdftex.def)             Requested size: 252.94695pt x 228.2545pt.
-<./illustrations/fig03.pdf, id=254, 845.40843pt x 597.73312pt>
+<./illustrations/fig03.pdf, id=205, 845.40843pt x 597.73312pt>
 File: ./illustrations/fig03.pdf Graphic file (type pdf)
 <use ./illustrations/fig03.pdf>
-Package pdftex.def Info: ./illustrations/fig03.pdf  used on input line 261.
+Package pdftex.def Info: ./illustrations/fig03.pdf  used on input line 283.
 (pdftex.def)             Requested size: 464.97607pt x 328.75423pt.
- [6 <./illustrations/fig02.pdf>] [7 <./illustrations/fig03.pdf>] [8] [9] [10] [
-11]
+ [6 <./illustrations/fig01.pdf>] [7 <./illustrations/fig02.pdf>] [8 <./illustra
+tions/fig03.pdf>] [9] [10] [11]
 Package epstopdf Info: Source file: <./illustrations/fig04.eps>
-(epstopdf)                    date: 2026-02-24 14:53:36
-(epstopdf)                    size: 286866 bytes
+(epstopdf)                    date: 2026-07-12 21:05:01
+(epstopdf)                    size: 230952 bytes
 (epstopdf)             Output file: <./illustrations/fig04-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2026-02-25 22:42:59
-(epstopdf)                    size: 94111 bytes
+(epstopdf)                    date: 2026-07-12 21:06:07
+(epstopdf)                    size: 78836 bytes
 (epstopdf)             Command: <repstopdf --outfile=./illustrations/fig04-eps-
 converted-to.pdf ./illustrations/fig04.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 431.
 Package epstopdf Info: Output file is already uptodate.
-<./illustrations/fig04-eps-converted-to.pdf, id=472, 1815.78375pt x 880.28876pt
+<./illustrations/fig04-eps-converted-to.pdf, id=483, 1454.43375pt x 880.28876pt
 >
 File: ./illustrations/fig04-eps-converted-to.pdf Graphic file (type pdf)
 <use ./illustrations/fig04-eps-converted-to.pdf>
 Package pdftex.def Info: ./illustrations/fig04-eps-converted-to.pdf  used on in
-put line 409.
-(pdftex.def)             Requested size: 508.41599pt x 246.47917pt.
-
-Overfull \hbox (4.80222pt too wide) in paragraph at lines 409--410
- [][] 
- []
-
-[12 <./illustrations/fig04-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 425--425
+put line 431.
+(pdftex.def)             Requested size: 407.23868pt x 246.47917pt.
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 447--447
 []|\T1/ptm/m/n/9 Ref.
  []
 
 
-Overfull \hbox (6.91573pt too wide) in paragraph at lines 425--425
+Overfull \hbox (6.91573pt too wide) in paragraph at lines 447--447
 []|\T1/ptm/m/n/9 Landcover| 
  []
 
-[13]
+[13 <./illustrations/fig04-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./illustrations/fig05.eps>
-(epstopdf)                    date: 2026-02-24 14:53:36
+(epstopdf)                    date: 2026-07-09 13:46:53
 (epstopdf)                    size: 60740 bytes
 (epstopdf)             Output file: <./illustrations/fig05-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2026-02-25 22:42:59
+(epstopdf)                    date: 2026-07-09 13:46:53
 (epstopdf)                    size: 29495 bytes
 (epstopdf)             Command: <repstopdf --outfile=./illustrations/fig05-eps-
 converted-to.pdf ./illustrations/fig05.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 473.
 Package epstopdf Info: Output file is already uptodate.
-<./illustrations/fig05-eps-converted-to.pdf, id=645, 514.92375pt x 659.46375pt>
+<./illustrations/fig05-eps-converted-to.pdf, id=654, 514.92375pt x 659.46375pt>
 
 File: ./illustrations/fig05-eps-converted-to.pdf Graphic file (type pdf)
 <use ./illustrations/fig05-eps-converted-to.pdf>
 Package pdftex.def Info: ./illustrations/fig05-eps-converted-to.pdf  used on in
-put line 451.
+put line 473.
 (pdftex.def)             Requested size: 257.46124pt x 329.73106pt.
+ [14]
 Package epstopdf Info: Source file: <./illustrations/fig06.eps>
-(epstopdf)                    date: 2026-02-24 14:53:36
-(epstopdf)                    size: 51296 bytes
+(epstopdf)                    date: 2026-07-12 17:45:15
+(epstopdf)                    size: 67243 bytes
 (epstopdf)             Output file: <./illustrations/fig06-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2026-02-25 22:42:59
-(epstopdf)                    size: 24290 bytes
+(epstopdf)                    date: 2026-07-12 17:45:52
+(epstopdf)                    size: 33569 bytes
 (epstopdf)             Command: <repstopdf --outfile=./illustrations/fig06-eps-
 converted-to.pdf ./illustrations/fig06.eps>
-(epstopdf)             \includegraphics on input line 462.
+(epstopdf)             \includegraphics on input line 484.
 Package epstopdf Info: Output file is already uptodate.
-<./illustrations/fig06-eps-converted-to.pdf, id=648, 514.92375pt x 659.46375pt>
+<./illustrations/fig06-eps-converted-to.pdf, id=663, 514.92375pt x 876.27374pt>
 
 File: ./illustrations/fig06-eps-converted-to.pdf Graphic file (type pdf)
 <use ./illustrations/fig06-eps-converted-to.pdf>
 Package pdftex.def Info: ./illustrations/fig06-eps-converted-to.pdf  used on in
-put line 462.
-(pdftex.def)             Requested size: 257.46124pt x 329.73106pt.
- [14] [15 <./illustrations/fig05-eps-converted-to.pdf>] [16 <./illustrations/fi
-g06-eps-converted-to.pdf>]
+put line 484.
+(pdftex.def)             Requested size: 257.46124pt x 438.13579pt.
+ [15 <./illustrations/fig05-eps-converted-to.pdf>] [16 <./illustrations/fig06-e
+ps-converted-to.pdf>]
 
-LaTeX Warning: Reference `fig: synthesis)' on page 17 undefined on input line 4
-82.
+LaTeX Warning: Reference `fig: synthesis)' on page 17 undefined on input line 5
+08.
 
 [17] [18]
-<illustrations/fig07.pdf, id=900, 505.89pt x 867.24pt>
+
+LaTeX Warning: Reference `fig:scatter' on page 19 undefined on input line 521.
+
+[19]
+<illustrations/fig07.pdf, id=935, 505.89pt x 867.24pt>
 File: illustrations/fig07.pdf Graphic file (type pdf)
 <use illustrations/fig07.pdf>
-Package pdftex.def Info: illustrations/fig07.pdf  used on input line 501.
+Package pdftex.def Info: illustrations/fig07.pdf  used on input line 525.
 (pdftex.def)             Requested size: 177.06415pt x 303.53854pt.
- [19 <./illustrations/fig07.pdf>] [20] [21]
+ [20 <./illustrations/fig07.pdf>] [21] [22]
 
 pdfTeX warning: /usr/bin/pdflatex (file ./illustrations/fig08.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<./illustrations/fig08.pdf, id=1038, 3167.835pt x 3950.76pt>
+<./illustrations/fig08.pdf, id=1069, 3167.835pt x 3950.76pt>
 File: ./illustrations/fig08.pdf Graphic file (type pdf)
 <use ./illustrations/fig08.pdf>
-Package pdftex.def Info: ./illustrations/fig08.pdf  used on input line 549.
+Package pdftex.def Info: ./illustrations/fig08.pdf  used on input line 575.
 (pdftex.def)             Requested size: 443.49388pt x 553.10265pt.
-[22
+[23
 
 pdfTeX warning (ext4): destination with the same identifier (name{appendix.A}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.565 \end{equation}
-                    ] [23 <./illustrations/fig08.pdf>] (./main.bbl [24]
+l.591 \end{equation}
+                    ] [24 <./illustrations/fig08.pdf>] (./main.bbl [25]
 Underfull \hbox (badness 5847) in paragraph at lines 110--113
 []\T1/ptm/m/n/9 GDAL/OGR con-trib-u-tors: GDAL/OGR Geospa-tial Data Ab-strac-ti
 on soft-ware Li-brary, Open Source Geospa-tial Foun-da-tion,
  []
 
-[25]
-Underfull \hbox (badness 1102) in paragraph at lines 161--164
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\T1/ptm/m/n/9 Hall, D. and Riggs, G.: MOD-IS-/Aqua Snow Cover Daily L3 Global
+ 500m SIN Grid, Ver-sion 61,
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 165--168
 []\T1/ptm/m/n/9 Imperatore, N.: Data of the ar-ti-cle "As-sess-ing VI-IRS con-s
 tel-la-tion sea-sonal snow cover on French moun-tains with Sentinel-2",
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 179--183
+Underfull \hbox (badness 2269) in paragraph at lines 183--187
 []\T1/ptm/m/n/9 Ji, W., Hao, X., Shao, D., Yang, Q., Wang, J., Li, H., and Huan
 g, G.: A New In-dex for Snow/Ice/Ice-Snow Dis-crim-i-na-
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 179--183
+Underfull \hbox (badness 1199) in paragraph at lines 183--187
 \T1/ptm/m/n/9 tion Based on BRDF Char-ac-ter-is-tic Ob-ser-va-tion Data, Jour-n
 al of Geo-phys-i-cal Re-search: At-mo-spheres, 127, e2021JD035742,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 194--198
+Underfull \hbox (badness 2027) in paragraph at lines 198--202
 []\T1/ptm/m/n/9 Key, J. R., Ma-honey, R., Liu, Y., Ro-manov, P., Tschudi, M., A
 p-pel, I., Maslanik, J., Bald-win, D., Wang, X., and Meade,
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 194--198
+Underfull \hbox (badness 2213) in paragraph at lines 198--202
 \T1/ptm/m/n/9 P.: Snow and ice prod-ucts from Suomi NPP VI-IRS, Jour-nal of Geo
 -phys-i-cal Re-search: At-mo-spheres, 118, 12,816--12,830,
  []
 
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
 \T1/ptm/m/n/9 ^^\leadmin / user _ upload / icdc _ Dokumente / ramsay _ TheInter
 activeMultisensorSnowandIceMappingSystem _ HYDROLPROC _ 12 _ 1998 . pdf$[],
  []
 
-[27]) [28] (./main.aux)
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 333--337
+[]\T1/ptm/m/n/9 Schwaizer, G. and Met-sämäki, S.: Snow Cover Ex-tent Col-lec-ti
+on 1 Km ATBD v1.0, []$https : / / doi . org / 10 . 2909 /
+ []
+
+) [29] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 18062 strings out of 478287
- 284651 string characters out of 5849289
- 633621 words of memory out of 5000000
- 35791 multiletter control sequences out of 15000+600000
+ 18069 strings out of 478287
+ 284836 string characters out of 5849289
+ 637523 words of memory out of 5000000
+ 35795 multiletter control sequences out of 15000+600000
  515618 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,14n,77p,3925b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,14n,77p,3925b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -1090,10 +1118,10 @@ ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on main.pdf (28 pages, 5804115 bytes).
+Output written on main.pdf (29 pages, 5930918 bytes).
 PDF statistics:
- 1299 PDF objects out of 1440 (max. 8388607)
- 909 compressed objects within 10 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 1333 PDF objects out of 1440 (max. 8388607)
+ 954 compressed objects within 10 object streams
+ 149 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
