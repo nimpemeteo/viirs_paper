@@ -20,6 +20,13 @@ Baba, M.~W., Gascoin, S., and Hanich, L.: Assimilation of {Sentinel}-2 {Data}
   10, 1982, \doi{10.3390/rs10121982}, number: 12 Publisher: Multidisciplinary
   Digital Publishing Institute, 2018.
 
+\bibitem[{Bair et~al.(2021)Bair, Stillinger, and Dozier}]{bair_snow_2021}
+Bair, E.~H., Stillinger, T., and Dozier, J.: Snow {Property} {Inversion} {From}
+  {Remote} {Sensing} ({SPIReS}): {A} {Generalized} {Multispectral} {Unmixing}
+  {Approach} {With} {Examples} {From} {MODIS} and {Landsat} 8 {OLI}, IEEE
+  Transactions on Geoscience and Remote Sensing, 59, 7270--7284,
+  \doi{10.1109/TGRS.2020.3040328}, 2021.
+
 \bibitem[{Barrett et~al.(2026)Barrett, Battisto, Bourbeau, Fisher, Kaufman,
   Kennedy, Lopez, Lowndes, Scheick, Steiker, and
   Varghese}]{barrett_2026_18435881}
@@ -287,12 +294,6 @@ Riggs, G. and Hall, D.: VIIRS/JPSS1 Snow Cover Daily L3 Global 375m SIN Grid,
 \bibitem[{Riggs and Hall(2025)}]{riggs2025MODISTerraSnow}
 Riggs, G.~A. and Hall, D.~K.: {{MODIS}}/{{Terra Snow Cover Daily L3 Global}}
   500m {{SIN Grid}}. ({{MOD10A1}}, {{Version}} 61, 2025.
-
-\bibitem[{Rittger et~al.(2013)Rittger, Painter, and
-  Dozier}]{rittger2013AssessmentMethodsMapping}
-Rittger, K., Painter, T.~H., and Dozier, J.: Assessment of Methods for Mapping
-  Snow Cover from {{MODIS}}, Advances in Water Resources, 51, 367--380,
-  \doi{10.1016/j.advwatres.2012.03.002}, 2013.
 
 \bibitem[{Rittger et~al.(2020)Rittger, Raleigh, Dozier, Hill, Lutz, and
   Painter}]{rittger2020CanopyAdjustmentImproved}

@@ -10,37 +10,37 @@ Warning--empty journal in painter2016AirborneSnowObservatory
 Warning--empty journal in zhou2019OverviewSciencePerformances
 You've used 56 entries,
             2932 wiz_defined-function locations,
-            1422 strings with 27075 characters,
-and the built_in function-call counts, 52223 in all, are:
-= -- 5276
+            1421 strings with 27155 characters,
+and the built_in function-call counts, 52361 in all, are:
+= -- 5300
 > -- 2657
 < -- 22
-+ -- 1099
++ -- 1101
 - -- 838
-* -- 3662
-:= -- 5747
+* -- 3666
+:= -- 5753
 add.period$ -- 56
 call.type$ -- 56
 change.case$ -- 404
 chr.to.int$ -- 57
 cite$ -- 171
-duplicate$ -- 4773
-empty$ -- 2618
+duplicate$ -- 4791
+empty$ -- 2622
 format.name$ -- 997
-if$ -- 10172
+if$ -- 10200
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 634
 newline$ -- 177
 num.names$ -- 224
-pop$ -- 2231
+pop$ -- 2241
 preamble$ -- 1
 purify$ -- 391
 quote$ -- 0
-skip$ -- 2818
+skip$ -- 2828
 stack$ -- 0
-substring$ -- 1776
-swap$ -- 3935
+substring$ -- 1788
+swap$ -- 3955
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
