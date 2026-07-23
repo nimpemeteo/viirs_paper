@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: modifications.aux
+The style file: copernicus.bst
+Database file #1: references.bib
+Warning--entry type for "martin_raspaud_2025_17552484" isn't style-file defined
+--line 2324 of file references.bib
+Warning--empty year in europeanunionscopernicuslandmonitoringserviceinformationSnowCoverExtent
+Warning--empty booktitle in liu_consistency_2024
+Warning--empty journal in painter2016AirborneSnowObservatory
+Warning--empty journal in zhou2019OverviewSciencePerformances
+You've used 57 entries,
+            2932 wiz_defined-function locations,
+            1427 strings with 27425 characters,
+and the built_in function-call counts, 52950 in all, are:
+= -- 5342
+> -- 2678
+< -- 24
++ -- 1108
+- -- 844
+* -- 3706
+:= -- 5820
+add.period$ -- 57
+call.type$ -- 57
+change.case$ -- 408
+chr.to.int$ -- 58
+cite$ -- 175
+duplicate$ -- 4847
+empty$ -- 2671
+format.name$ -- 1008
+if$ -- 10327
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 645
+newline$ -- 180
+num.names$ -- 228
+pop$ -- 2270
+preamble$ -- 1
+purify$ -- 395
+quote$ -- 0
+skip$ -- 2860
+stack$ -- 0
+substring$ -- 1799
+swap$ -- 3985
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 513
+warning$ -- 4
+while$ -- 266
+width$ -- 0
+write$ -- 668
+(There were 5 warnings)
